@@ -1,0 +1,11 @@
+requests
+numpy
+pandas
+matplotlib
+japanize-matplotlib
+scikit-learn
+seaborn
+joblib
+MeCab
+cabocha-python
+graphviz 

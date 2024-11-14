@@ -1,0 +1,7 @@
+services:
+  python-app:
+    build: ./docker
+    volumes:
+      - .:/usr/src/app
+    working_dir: /usr/src/app
+    entrypoint: tail -f /dev/null
