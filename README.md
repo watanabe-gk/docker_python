@@ -1,6 +1,6 @@
 ## 環境構築
 
-- コンテナの起動
+- ビルド
     ```
     docker-compose build
     ```
